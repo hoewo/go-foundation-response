@@ -1,4 +1,4 @@
-module github.com/services/foundation/response
+module response
 
 go 1.24.4
 
