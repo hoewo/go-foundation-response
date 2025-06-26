@@ -1,4 +1,4 @@
-module response
+module github.com/hoewo/go-foundation-response
 
 go 1.24.4
 
